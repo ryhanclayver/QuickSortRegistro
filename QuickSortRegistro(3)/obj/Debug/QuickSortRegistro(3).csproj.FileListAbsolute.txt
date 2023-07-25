@@ -1,0 +1,16 @@
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).exe.config
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).exe
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).pdb
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.AssemblyReference.cache
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.SuggestedBindingRedirects.cache
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.CoreCompileInputs.cache
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).exe
+C:\lipa3\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).exe.config
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\bin\Debug\QuickSortRegistro(3).pdb
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.AssemblyReference.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).csproj.CoreCompileInputs.cache
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).exe
+C:\Users\Usuario\ESTE COMPUTADOR II\Documents\QuickSort\QuickSortRegistro(3)\QuickSortRegistro(3)\obj\Debug\QuickSortRegistro(3).pdb
